@@ -1,6 +1,6 @@
 baseURL = "https://www.magimug.net"
 themesDir = "themes"
-theme = "hugo-hero-theme"
+theme = ["hugo-hero-theme"]
 
 
 [author]
