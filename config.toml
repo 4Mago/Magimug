@@ -13,7 +13,8 @@ tags = ["responsive","minimal","clean","company","portfolio","bootstrap","zerost
 features = ["services","work","fullwidth","hero images"]
 min_version = 0.51
 
-  [params.homepage_meta_tags]
+
+[params.homepage_meta_tags]
 meta_description = "a description of your website."
 meta_og_title = "My Theme"
 meta_og_type = "website"
