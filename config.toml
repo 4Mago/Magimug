@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://magimug.netlify.app"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
